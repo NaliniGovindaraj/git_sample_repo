@@ -10,4 +10,6 @@ git add
 git commit
 git log
 Git diff<filename>
+file last
+
 
