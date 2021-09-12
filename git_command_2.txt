@@ -1,0 +1,14 @@
+git status-->prints the status of got repository--change 1
+git init-->initialize the git repository
+git config--global user.name"NALINI's WORK"
+git config--global user.email menaanthaan@gmail.com	
+git config user.name"Nalini's work"
+git config user.email nalinigovindaraj06@gmail.com
+git add
+git commit
+git log
+Git diff<filename>
+nalini Govindaraj
+specify user name
+
+
