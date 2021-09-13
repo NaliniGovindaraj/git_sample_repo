@@ -13,3 +13,17 @@ new line
 1
 2
 
+git add *
+git status
+git commit -m "commit 4"
+git remote add origin https://github.com/NaliniGovindaraj/git_sample_repo.git
+git push origin master
+
+
+ git pull
+
+
+git branch-->Current branch
+Git checkout  -b privatebranch1-->Create Branch
+Git checkout privatebranch1-->Switch to Branch
+
