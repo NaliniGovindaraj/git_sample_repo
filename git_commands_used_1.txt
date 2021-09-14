@@ -13,6 +13,22 @@ new line
 1
 2
 
+<<<<<<< HEAD
+git add *
+git status
+git commit -m "commit 4"
+git remote add origin https://github.com/NaliniGovindaraj/git_sample_repo.git
+git push origin master
+
+
+ git pull
+
+
+git branch-->Current branch
+Git checkout  -b privatebranch1-->Create Branch
+Git checkout privatebranch1-->Switch to Branch
+
+=======
 
 I have planted a Gulmohar tree in the courtyard!
 
@@ -31,3 +47,7 @@ shade.
 
 If I want,
 I can swing its swing in my arms in Sawan!
+
+
+
+>>>>>>> bb3d9f93db038baff90c30f4a823bf1c1e26d0cc
